@@ -1,7 +1,8 @@
 #Text Animation
 
 
-![Rec 0001](https://github-production-user-asset-6210df.s3.amazonaws.com/147813870/282221407-3e426747-66a4-461e-a731-420a8b2feb26.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231202T122734Z&X-Amz-Expires=300&X-Amz-Signature=6c01219b44e8a43aa954cc479eb7ba109c3abe8d6a0f7148a4869ace2d32a2fc&X-Amz-SignedHeaders=host&actor_id=147813870&key_id=0&repo_id=717321198)
+![aliafrouz](https://github.com/aliafrouz/textAnimation/assets/147813870/e59d8fb4-6daf-4513-b0d8-53346a0f173a)
+
 
 
 
